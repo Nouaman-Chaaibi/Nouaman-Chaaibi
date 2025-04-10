@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python and SQL**
 
-- 📫 Reach me on **nouaamanchaaibi5@gmail.com**
+- 📫 Reach me on **nouamanchaaibi@gmail.com**
 
 - ⚡ Fun fact **"If I weren't lazy, I'd have coded a AI to do all my work for me...Actually, that's still the plan"**
 
