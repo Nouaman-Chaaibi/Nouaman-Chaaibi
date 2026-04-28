@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouaman Chaaibi</h1>
-<h3 align="center">Data Science Student | Data Analyst • Data Engineer • AI Enthusiast</h3>
+<h3 align="center">Data Scientist | Data Engineer | Data Analyst | AI Enthusiast</h3>
 
 - 🎓 Aspiring Engineer in Data Science, Big Data & AI  
 - 🔭 Currently working on **data platforms, pipelines & AI-driven projects**  
@@ -36,9 +36,12 @@
 
 <h3 align="left">🤖 AI, LLM & RAG:</h3>
 <p align="left">
-<a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/></a>
-<a href="https://platform.openai.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chromadb.svg" width="40"/></a>
+<a href="https://www.langchain.com/">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
+</a>
+<a href="https://www.trychroma.com/">
+<img src="https://avatars.githubusercontent.com/u/104753769?s=200&v=4" width="40"/>
+</a>
 </p>
 
 <h3 align="left">💻 Programming:</h3>
@@ -65,8 +68,19 @@
 
 <h3 align="left">🛠️ Tools & Environment:</h3>
 <p align="left">
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></a>
-<a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/></a>
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</a>
+<a href="https://www.linux.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</a>
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</a>
+<a href="https://www.mathworks.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
+</a>
 </p>
