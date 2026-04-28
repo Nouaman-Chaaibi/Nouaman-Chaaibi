@@ -42,12 +42,6 @@
 <a href="https://huggingface.co/">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
 </a>
-<a href="https://github.com/facebookresearch/faiss">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" width="40"/>
-</a>
-<a href="https://www.trychroma.com/">
-<img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/img/chroma.svg" width="40"/>
-</a>
 <a href="https://jupyter.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
 </a>
